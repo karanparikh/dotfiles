@@ -13,3 +13,5 @@ set smartcase
 set ai
 
 set backspace=indent,eol,start
+
+map <silent> <F6> :NERDTreeToggle<CR>
